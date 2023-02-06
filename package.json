@@ -6,7 +6,7 @@
   "private": false,
   "repository": "git@github.com:AfrazHussain/adminjs-upload.git",
   "publishConfig": {
-    "@AfrazHussain:adminjs-upload": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "license": "MIT",
   "scripts": {
