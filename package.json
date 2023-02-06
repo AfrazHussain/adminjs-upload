@@ -1,10 +1,10 @@
 {
-  "name": "@AfrazHussain/adminjs-upload",
-  "version": "1.0.0",
+  "name": "@afrazhussain/adminjs-upload",
+  "version": "3.1.0",
   "main": "index.js",
   "types": "types/index.d.ts",
   "private": false,
-  "repository": "git@github.com:AfrazHussain/adminjs-upload.git",
+  "repository": "git@github.com:afrazhussain/adminjs-upload.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
