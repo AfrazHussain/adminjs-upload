@@ -101,7 +101,7 @@ const uploadFileFeature = (config: UploadOptions): FeatureType => {
 
   const uploadFeature = buildFeature({
     properties: {
-      [properties.file]: {
+      [properties.key]: {
         custom,
         isVisible: { show: true, edit: true, list: true, filter: false },
         components: {
