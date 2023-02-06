@@ -4,6 +4,9 @@ jobs:
   test:
     name: test
     runs-on: ubuntu-latest
+    permissions:
+      packages: write
+      contents: write
     steps:
       - name: Dump GitHub context
         env:
