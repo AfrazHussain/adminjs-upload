@@ -1,10 +1,13 @@
 {
-  "name": "@adminjs/upload",
-  "version": "3.0.1",
+  "name": "@AfrazHussain/adminjs-upload",
+  "version": "3.1.0",
   "main": "index.js",
   "types": "types/index.d.ts",
   "private": false,
-  "repository": "git@github.com:SoftwareBrothers/adminjs-upload.git",
+  "repository": "git@github.com:AfrazHussain/adminjs-upload.git",
+  "publishConfig": {
+    "@AfrazHussain:adminjs-upload": "https://npm.pkg.github.com"
+  },
   "license": "MIT",
   "scripts": {
     "release": "semantic-release",
